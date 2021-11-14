@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<testsuites>
+    <testsuite errors="0" failures="0" name="QUIKTest" tests="1">
+        <testcase classname="ManualTest" name="Test1" time="5.0">
+        </testcase>
+    </testsuite>
+</testsuites>
